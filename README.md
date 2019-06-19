@@ -47,13 +47,13 @@ Assuming that the current project directory is `%Project%`
 $ cd %Project% & aliensboot init (package path) -t [template name] -m [template module name]
 ```
    
-- [-t] directory of related projects (`%ALIENSBOOT_HOME%`) as a template, the default template name aliensboot-demo	
+- [-t] directory of related projects (`%ALIENSBOOT_HOME%`) as a template, the default template name aliensboot-server	
 - [-m] create all modules by default
 	
 e.g. 
 
 ```sh
-$ aliensboot init github.com/myname/myproject -t aliensboot-demo -m "passport,gate"
+$ aliensboot init github.com/myname/myproject -t aliensboot-server -m "passport,gate"
 ```
 
 
