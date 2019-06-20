@@ -8,6 +8,14 @@ exportjson.sh //excel导出到json
 -o 输出路径
 -d 转换方式 目前支持 json go js
 
+-include 必须包含的sheet页和表格名
+-exclude 过滤sheet页和表格名, 注 include的优先级大于exclude
+
+-ff 过滤字段名
+-a 表格别名 如 长弓:Long,短弓:Short
+-l 解析对应的行号 如 -l 1,0,2   1行为字段名 0行为类型 2行为字段描述
+
+
 注:需要把参数内的路径缓存本地的
 
 
