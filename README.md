@@ -17,7 +17,7 @@ Aliensboot is a game framework written in Go (Golang). integrated automation too
 1.  Download:
 
 ```sh
-$ git clone --recursive https://github.com/KylinHe/aliensboot.git
+$ git clone --recursive git@github.com:KylinHe/aliensboot.git
 ```
 	
 2. Set the environment variable

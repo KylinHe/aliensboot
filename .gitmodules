@@ -10,3 +10,6 @@
 [submodule "aliensboot-client-cocos"]
 	path = aliensboot-client-cocos
 	url = git@github.com:KylinHe/aliensboot-client-cocos.git
+[submodule "aliensboot-excel2all"]
+	path = aliensboot-excel2all
+	url = git@github.com:KylinHe/aliensboot-excel2all.git
