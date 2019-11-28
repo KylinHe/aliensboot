@@ -1,9 +1,12 @@
 [submodule "aliensboot-toolkit"]
 	path = aliensboot-toolkit
-	url = https://github.com/KylinHe/aliensboot-toolkit.git
+	url = git@github.com:KylinHe/aliensboot-toolkit.git
 [submodule "aliensboot-core"]
 	path = aliensboot-core
-	url = https://github.com/KylinHe/aliensboot-core.git
+	url = git@github.com:KylinHe/aliensboot-core.git
 [submodule "aliensboot-server"]
 	path = aliensboot-server
-	url = https://github.com/KylinHe/aliensboot-server.git
+	url = git@github.com:KylinHe/aliensboot-server.git
+[submodule "aliensboot-client-cocos"]
+	path = aliensboot-client-cocos
+	url = git@github.com:KylinHe/aliensboot-client-cocos.git
